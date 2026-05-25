@@ -1,0 +1,15 @@
+2026-05-22 18:12:12.277 Uvicorn server started on 127.0.0.1:8501
+E:\智能体学习\项目1\src\tools\job_tools.py:123: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+E:\智能体学习\项目1\src\tools\job_tools.py:123: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+E:\智能体学习\项目1\src\agents\interviewer.py:66: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+E:\智能体学习\项目1\src\tools\job_tools.py:123: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  with DDGS() as ddgs:
+D:\miniconda3\envs\biaozhu\Lib\site-packages\websockets\legacy\server.py:1178: DeprecationWarning: remove second argument of ws_handler
+  warnings.warn("remove second argument of ws_handler", DeprecationWarning)
+E:\智能体学习\项目1\src\tools\job_tools.py:139: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  
+E:\智能体学习\项目1\src\agents\interviewer.py:97: RuntimeWarning: This package (`duckduckgo_search`) has been renamed to `ddgs`! Use `pip install ddgs` instead.
+  5. source 字段必须如实标注这道题的灵感来源，只能选以下之一：
